@@ -1,2 +1,3 @@
 # Exploratory-data-analysis
-#Author- "firdo-student"
+This is my project 
+Author- "firdo-student"
