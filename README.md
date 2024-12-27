@@ -1,3 +1,4 @@
 # Exploratory-data-analysis
-This is my project /n
+This is my project 
+
 Author- "firdo-student"
